@@ -1,4 +1,4 @@
-# Project Title
+# PONG
 Building the simple game of Pong
 
 ## Description
